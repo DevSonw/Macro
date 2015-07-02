@@ -1,13 +1,13 @@
 //
-//  DeviceMacro.h
-//  NewWealink
+//  iOSMacro.h
+//  Ho
 //
 //  Created by Ho on 14/11/19.
 //  Copyright (c) 2014年 Ho. All rights reserved.
 //
 
-#ifndef NewWealink_DeviceMacro_h
-#define NewWealink_DeviceMacro_h
+#ifndef iOS_Macro_h
+#define iOS_Macro_h
 
 //System
 
